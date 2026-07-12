@@ -1,0 +1,1 @@
+- [Streamlit/Python apps in artifact workspace](streamlit-in-artifact-workspace.md) — no native artifact type; bootstrap as react-vite then swap the service command.
