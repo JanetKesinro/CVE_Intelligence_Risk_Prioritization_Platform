@@ -1,5 +1,7 @@
 # CVE Intelligence & Risk Prioritization Platform
 
+![CVE Intelligence Platform Screenshot](attached_assets/image_1783889724788.png)
+
 A Python-based vulnerability intelligence platform integrating NVD, CISA KEV, FIRST EPSS, and business-context risk scoring to generate explainable remediation priorities.
 
 ## Features
