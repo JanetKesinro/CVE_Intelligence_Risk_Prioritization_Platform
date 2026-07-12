@@ -1,4 +1,4 @@
-# CVE Intelligence & Risk Prioritizer
+# CVE Intelligence & Risk Prioritization Platform
 
 A cybersecurity triage/vulnerability-management tool: an analyst enters a CVE ID, sees live technical + threat intelligence (NVD, CISA KEV, FIRST EPSS), answers four business context questions, and gets a local, rule-based risk score, risk level, plain-language explanation, and a recommended remediation priority.
 
