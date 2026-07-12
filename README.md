@@ -1,6 +1,6 @@
 # CVE Intelligence & Risk Prioritization Platform
 
-![CVE Intelligence Platform Screenshot](attached_assets/image_1783889724788.png)
+![CVE Intelligence Platform Screenshot](screenshots/home-page.png)
 
 A Python-based vulnerability intelligence platform integrating NVD, CISA KEV, FIRST EPSS, and business-context risk scoring to generate explainable remediation priorities.
 
@@ -31,5 +31,5 @@ A Python-based vulnerability intelligence platform integrating NVD, CISA KEV, FI
 ### Installation
 ```bash
 pip install -r requirements.txt
-streamlit run artifacts/cve-risk-prioritizer/app.py
+streamlit run app.py
 ```
