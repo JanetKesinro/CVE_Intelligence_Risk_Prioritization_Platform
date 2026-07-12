@@ -1,4 +1,4 @@
-# AI CVE Risk Prioritizer
+# CVE Intelligence & Risk Prioritizer
 
 A cybersecurity triage tool: an analyst enters a CVE ID, answers four context questions, and gets a local, rule-based risk score, risk level, plain-language explanation, and a recommended remediation priority.
 
